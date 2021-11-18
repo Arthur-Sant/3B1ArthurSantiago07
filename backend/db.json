@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "0662b332-8be9-4654-b727-f09c5bcbfdfd",
+      "name": "Generic Fresh Computer",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": 627
+    },
+    {
+      "id": "aa242596-6d98-4d70-b420-1f6b0b2da1f2",
+      "name": "Sleek Concrete Cheese",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": 642
+    },
+    {
+      "id": "e28838ee-1a8f-4305-b156-40c6e5afe6e8",
+      "name": "Ergonomic Fresh Sausages",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": 157
+    },
+    {
+      "id": "c7ea4ffe-71fd-4d6a-a5f6-b7c3d4a13b73",
+      "name": "Practical Metal Shirt",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": 749
+    }
+  ]
+}
